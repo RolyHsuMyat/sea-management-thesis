@@ -8,7 +8,7 @@ Code for an M.A. thesis in Economics (Thammasat University). It asks whether SME
 
 | File | What it is |
 | --- | --- |
-| `Q7_supervisor_regressions.ipynb` | The regression notebook. It reads the clean dataset and runs every regression |
+| `Q7_Regressions.ipynb` | The regression notebook. It reads the clean dataset and runs every regression |
 | `README.md` | This page |
 | `.gitignore` | Keeps data files out of the repository |
 
@@ -32,7 +32,7 @@ Data source: Enterprise Surveys (http://www.enterprisesurveys.org), The World Ba
 
 ## How to run
 
-1. Open `Q7_supervisor_regressions.ipynb` in Google Colab (**File → Open notebook → GitHub**, then paste this repository's link).
+1. Open `Q7_Regressions.ipynb` in Google Colab (**File → Open notebook → GitHub**, then paste this repository's link).
 2. Choose **Runtime → Run all**.
 3. When the **Upload** button appears, choose `sea_clean_firms.csv` from your computer.
 4. Wait a few minutes. The bootstrap takes most of the time.
