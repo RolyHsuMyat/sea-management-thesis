@@ -2,7 +2,7 @@
 
 Code for an M.A. thesis in Economics (Thammasat University). It asks whether SMEs with more structured management practices sell more than similar firms, and whether that differs by owner gender, credit constraints and firm size.
 
-> **Author:** [your name] · **Supervisor:** [supervisor's name]
+> **Author:** [Roly] · **Supervisor:** [Krit]
 
 ## What is in this repository
 
