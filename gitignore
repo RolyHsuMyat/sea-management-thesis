@@ -1,0 +1,13 @@
+# Survey data: World Bank Enterprise Surveys files are not shared here (see README)
+*.dta
+*.zip
+wbes_data/
+
+# Outputs built from the survey data
+wbes_out/
+sea_clean_firms.csv
+*.xlsx
+
+# Python and notebook clutter
+__pycache__/
+.ipynb_checkpoints/
